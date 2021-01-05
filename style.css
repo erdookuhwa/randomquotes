@@ -4,6 +4,12 @@ body {
     background-color: salmon;
 }
 
+.container {
+    height: 50px;
+    text-align: center;
+}
+    
+    
 h2 {
     color: white;
     border: turquoise solid 5px;
